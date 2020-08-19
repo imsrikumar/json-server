@@ -1,0 +1,9 @@
+students = [
+    { id: 10, name: 'kumar', marks: 60, status: true, },
+    { id: 11, name: 'Senthil', marks: 70, status: true, },
+    { id: 12, name: 'raj', marks: 30, status: false, },
+    { id: 13, name: 'Malar', marks: 50, status: true, },
+    { id: 14, name: 'harish', marks: 80, status: true, },
+    { id: 15, name: 'srikumar', marks: 90, status: true, },
+    { id: 16, name: 'pushpa', marks: 70, status: true, }
+];
